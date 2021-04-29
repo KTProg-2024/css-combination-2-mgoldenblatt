@@ -1,0 +1,20 @@
+h1{
+  background-color: steelblue;
+  color: white;
+}
+   tr > th {
+  background-color: steelblue;
+  color: white;
+}
+#male .active{
+  background-color: #a2662a; 
+}
+#female .active{
+  background-color:seagreen;
+}
+#female .inactive{
+  background-color: mediumaquamarine;
+}
+#male .inactive{
+  background-color: peru;
+}
